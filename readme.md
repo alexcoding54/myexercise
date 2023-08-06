@@ -1,9 +1,9 @@
 ## Intro
-    It's for storaging my own coding exercise work basiclly written in C
-    in fact I'm a old bird in programming because I've been coding for six years
-    and i attended the NOI (National Olympic Information Compitition)
-    but because of the study work (high school) sometimes i can't concentrate on
-    coding
+    > It's for storaging my own coding exercise work basiclly written in C
+    > in fact I'm a old bird in programming because I've been coding for six years
+    > and i attended the NOI (National Olympic Information Compitition)
+    > but because of the study work (high school) sometimes i can't concentrate on
+    > coding
 
 ## What
     C / Assembly / Python
