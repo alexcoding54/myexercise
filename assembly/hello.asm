@@ -12,3 +12,6 @@ _start:
     mov ah, 01h
     xor bx, bx
     int 21h
+
+    mov ah, 4ch
+    int 21h
