@@ -1,11 +1,7 @@
 ﻿/*
-
  * I do suggest you to view my new bubblesort source code 'bubblesore_plus.c'
-
  * which is also stroaged in algorithm/. It's more effective than this one
-
  * 建议去看同一个目录下的 'bubblesort_plus.c' 源码，比这个更高效
-
  */
 
 #include <stdio.h>
