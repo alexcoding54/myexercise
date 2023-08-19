@@ -14,7 +14,7 @@ void bubble_sort(int *arr, int n)
 {
     int m = 0;
 
-    while (m!=n) {
+    while (m != n-1) {
         if (arr[m] <= arr[m+1]) {
             m++;
         } else if (arr[m] > arr[m+1]) {
