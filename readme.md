@@ -1,8 +1,8 @@
 ## Mar 24 
 <h1>
-Just wanna tell you guys bro just got a 10/150 in
-math exam (maybe fewer) so don't use my code if you blame it
-:D 
+Just wanna tell you guys bro just got a 10/150 in  
+math exam (maybe fewer) so don't use my code if you blame it  
+:D  
 </h1>
 
 ## //////////////////////////////
