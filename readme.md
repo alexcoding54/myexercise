@@ -1,3 +1,15 @@
+## Mar 24 
+Just wanna tell you guys bro just got a 10/150 in
+math exam (maybe fewer) so don't use my code if you blame it
+:D 
+
+## //////////////////////////////
+## //////////////////////////////
+## //////////////////////////////
+## //////////////////////////////
+## //////////////////////////////
+## //////////////////////////////
+
 ## Intro
 It's for storaging my own coding exercise work basiclly written in C  
 in fact I'm a old bird in programming because I've been coding for six years  
